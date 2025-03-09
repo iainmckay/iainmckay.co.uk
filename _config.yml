@@ -3,6 +3,7 @@ title: Iain Mckay
 description: 'Developer. Geek. Dad.'
 url: 'https://www.iainmckay.co.uk'
 baseurl: ''
+encoding: utf-8
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
